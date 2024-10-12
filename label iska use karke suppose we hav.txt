@@ -1,0 +1,2 @@
+label: iska use karke suppose we have a name in form then if we click on name then textbox pr apne aap cursor aajayega. ex - Name: |________________|   
+   

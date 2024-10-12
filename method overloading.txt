@@ -1,0 +1,6 @@
+method overloading:
+method name same and parameter will be different 
+
+2+4: 6;
+"Vijay" + "singh":
+
